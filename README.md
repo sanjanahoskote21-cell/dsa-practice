@@ -3,8 +3,8 @@
 Solving problems consistently to build a strong foundation for coding interviews.
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Problems](https://img.shields.io/badge/Solved-19-pink)
-![Easy](https://img.shields.io/badge/Easy-16-lavender)
+![Problems](https://img.shields.io/badge/Solved-20-pink)
+![Easy](https://img.shields.io/badge/Easy-17-lavender)
 ![Medium](https://img.shields.io/badge/Medium-3-blue)
 ![Hard](https://img.shields.io/badge/Hard-0-yellow)
 
@@ -14,7 +14,7 @@ Solving problems consistently to build a strong foundation for coding interviews
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 19 | 16 | 3 | 0 |
+| 20 | 17 | 3 | 0 |
 
 ---
 

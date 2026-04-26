@@ -3,9 +3,9 @@
 Solving problems consistently to build a strong foundation for coding interviews.
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Problems](https://img.shields.io/badge/Solved-20-pink)
-![Easy](https://img.shields.io/badge/Easy-17-lavender)
-![Medium](https://img.shields.io/badge/Medium-3-blue)
+![Problems](https://img.shields.io/badge/Solved-25-pink)
+![Easy](https://img.shields.io/badge/Easy-20-lavender)
+![Medium](https://img.shields.io/badge/Medium-5-blue)
 ![Hard](https://img.shields.io/badge/Hard-0-yellow)
 
 ---

@@ -14,7 +14,7 @@ Solving problems consistently to build a strong foundation for coding interviews
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 20 | 17 | 3 | 0 |
+| 25 | 20 | 5 | 0 |
 
 ---
 
